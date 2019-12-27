@@ -1,0 +1,26 @@
+[
+    {
+        "role" : "Independent Consultant",
+        "company" : "Swordfish Interactive Media Company",
+        "summary" : "Full-stack development for several Java-based enterprise web applications.",
+        "range" : "2006 - Present"
+    },
+    {
+        "role" : "Senior Consultant",
+        "company" : "Acquity Group",
+        "summary" : "Traveled to retail-industry client sites and performed full-stack development for Java-based Blue Martini web applications.",
+        "range" : "2005 - 2006"
+    },
+    {
+        "role" : "Senior Consultant",
+        "company" : "Software Architects",
+        "summary" : "Web architecture and development of a Java-based web application for a client in the insurance industry.",
+        "range" : "2003 - 2005"
+    },
+    {
+        "role" : "Senior Consultant",
+        "company" : "Chicago Systems Group",
+        "summary" : "Full-stack development for a variety of clients, including Java web applications and Microsoft desktop applications.",
+        "range" : "2000 - 2003"
+    }
+]

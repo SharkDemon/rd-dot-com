@@ -1,0 +1,26 @@
+[
+    {
+        "role" : "Citizen Scientist",
+        "organization" : "Zooniverse",
+        "summary" : "Classified images for several citizen-science research projects.",
+        "range" : "2015 - present"
+    },
+    {
+        "role" : "Volunteer Judge",
+        "organization" : "Indiana Historical Society",
+        "summary" : "Served as a volunteer judge for National History Day in Indiana (2016 and 2017).",
+        "range" : "2016 - 2017"
+    },
+    {
+        "role" : "Member, Selection Committee",
+        "organization" : "Indiana Short Film Festival",
+        "summary" : "Responsible for the process of reviewing film submissions and selecting films to be screened at the Indiana Short Film Festival.",
+        "range" : "2013 - 2016"
+    },
+    {
+        "role" : "Participant, Focus Group",
+        "organization" : "The Children's Museum of Indianapolis",
+        "summary" : "Participated in the museum's focus group for a potential future Brazilian-themed exhibit.",
+        "range" : "2016"
+    }
+]

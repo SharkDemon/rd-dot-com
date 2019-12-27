@@ -1,0 +1,112 @@
+[
+    {
+        "grouping": "Frontend",
+        "skills": [ "HTML"
+            , "CSS"
+            , "JavaScript"
+            , { "name": "JQuery", "link": "https://jquery.com/" }
+            , { "name": "JQueryUI", "link": "https://jqueryui.com/" }
+            , { "name": "DataTables", "link": "https://datatables.net/" }
+            , { "name": "jsTree", "link": "https://www.jstree.com/" }
+            , { "name": "RichFaces", "link": "http://richfaces.jboss.org/" }
+            , { "name": "ZK", "link": "https://www.zkoss.org/" }
+            , { "name": "Hugo", "link": "https://gohugo.io/" }
+        ]
+    },
+    {
+        "grouping": "Backend",
+        "skills": [ "Java"
+            , "Spring MVC"
+            , "Spring Boot"
+            , "JSP"
+            , "custom JSP tags"
+            , "servlets"
+            , "Thymeleaf"
+            , "JSF"
+            , { "name": "Tomahawk", "link": "https://myfaces.apache.org/tomahawk-project/tomahawk/tagdoc.html" }
+            , "Struts"
+            , { "name": "Seam", "link": "http://seamframework.org/" }
+            , { "name": "Apache Commons", "link": "https://commons.apache.org/" }
+            , "Log4J"
+            , { "name": "Flying Saucer", "link": "https://github.com/flyingsaucerproject/flyingsaucer" }
+            , "XML"
+            , "XSLT"
+            , { "name": "JSON", "link": "https://www.json.org/" }
+            , { "name": "Jackson", "link": "https://github.com/FasterXML/jackson" }
+            , { "name": "JUnit", "link": "https://junit.org" }
+            , { "name": "Mockito", "link": "https://site.mockito.org/" }
+        ]
+    },
+    {
+        "grouping":"Containers & Cloud",
+          "skills":[
+            {"name":"AWS","link":"https://aws.amazon.com"}
+          ]
+    },
+    {
+        "grouping": "Build Tools and CI/CD",
+        "skills": [ "Ant"
+            , { "name": "Maven", "link": "https://maven.apache.org/" }
+            , "Jenkins"
+        ]
+    },
+    {
+        "grouping": "Databases and Connectivity",
+        "skills": [ "SQL"
+            , "JDBC"
+            , "JPA"
+            , "Hibernate"
+            , { "name": "Spring Data", "link": "https://spring.io/projects/spring-data" }
+            , "Oracle"
+            , "MySQL"
+            , "MS Access"
+            , "SQL Server"
+            , "DB2"
+        ]
+    },
+    {
+        "grouping": "Development Environment and Tools",
+        "skills": [ "Eclipse"
+            , "WSAD"
+            , "MS Visio"
+            , "Embarcadero Describe"
+            , { "name": "Git", "link": "https://git-scm.com/" }
+            , "Subversion"
+            , "CVS"
+            , "Serena Change Manager (PVCS)"
+            , "MS Visual Source Safe"
+            , { "name": "StarTeam", "link": "https://www.microfocus.com/en-us/products/starteam/overview" }
+            , "Rational suite (RAD, Rose, ClearCase, ClearQuest)"
+            , "Atlassian suite (JIRA, Confluence, Stash, SourceTree)"
+            , { "name": "Bugzilla", "link": "https://www.bugzilla.org/" }
+            , "Scarab"
+        ]
+    },
+    {
+        "grouping": "Servers",
+        "skills": [ "WebSphere"
+            , "WebLogic"
+            , { "name": "Tomcat", "link": "http://tomcat.apache.org/" }
+            , "Voyager"
+            , "IIS"
+            , "JBoss"
+            , "JBoss EAP"
+            , "Blue Martini"
+            , { "name": "Wordpress", "link": "https://wordpress.com/" }
+            , { "name": "Mambo", "link": "http://mambo-foundation.org/" }
+            , { "name": "Joomla", "link": "https://www.joomla.org/" }
+            , "Typo"
+        ]
+    },
+    {
+        "grouping":"Legacy",
+        "skills": [ "COBOL"
+            , "JCL"
+            , "IBM 360/370 assembler"
+            , "OS/390"
+            , "Visual Basic"
+            , "Delphi"
+            , "Prolog"
+        ]
+    }
+  ]
