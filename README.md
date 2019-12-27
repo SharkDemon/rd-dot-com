@@ -1,4 +1,4 @@
-# rorydickinson-dot-com
+# rd-dot-com
 
 This project contains the Hugo-generated HTML files comprising the website at [rorydickinson.com](https://rorydickinson.com).
 
