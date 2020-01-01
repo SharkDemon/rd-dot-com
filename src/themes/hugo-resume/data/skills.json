@@ -39,8 +39,8 @@
     },
     {
         "grouping":"Containers & Cloud",
-          "skills":[
-            {"name":"AWS","link":"https://aws.amazon.com"}
+          "skills":[ { "name":"AWS","link":"https://aws.amazon.com" }
+            , { "name": "Docker", "link": "https://www.docker.com/" }
           ]
     },
     {
