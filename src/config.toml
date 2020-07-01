@@ -36,6 +36,9 @@ theme = "hugo-resume"
     link = "https://stackoverflow.com/users/story/10482896"
     icon = "stack-overflow"
 [[params.handles]]
+    name = "Hackerrank"
+    link = "https://www.hackerrank.com/rory_c_dickinson"
+[[params.handles]]
     name = "IMDB"
     link = "https://www.imdb.com/name/nm6010717/"
 
