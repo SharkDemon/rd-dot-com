@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.io/SharkDemon/rd-dot-com.svg)](http://hits.dwyl.io/SharkDemon/rd-dot-com)
+[![HitCount](http://hits.dwyl.com/SharkDemon/rd-dot-com.svg)](http://hits.dwyl.com/SharkDemon/rd-dot-com)
 
 # rd-dot-com
 
