@@ -33,7 +33,7 @@ theme = "hugo-resume"
     link = "https://github.com/SharkDemon"
 [[params.handles]]
     name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/10482896"
+    link = "https://stackoverflow.com/users/10482896/sharkdemon"
     icon = "stack-overflow"
 [[params.handles]]
     name = "Hackerrank"
