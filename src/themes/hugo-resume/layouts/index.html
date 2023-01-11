@@ -30,6 +30,9 @@
    {{ if .Site.Params.showCertifications }}
        {{ partial "portfolio/certifications.html" . }}
    {{ end }}
+   {{ if .Site.Params.showArchaeology }}
+       {{ partial "portfolio/archaeology.html" . }}
+   {{ end }}
    {{ if .Site.Params.showVolunteering }}
        {{ partial "portfolio/volunteering.html" . }}
    {{ end }}
