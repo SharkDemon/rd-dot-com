@@ -48,6 +48,11 @@
             <a class="nav-link js-scroll-trigger" href="/#certifications">Certifications</a>
           </li>
       {{ end }}
+      {{ if .Site.Params.showArchaeology }}
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="/#archaeology">Archaeology</a>
+          </li>
+      {{ end }}
       {{ if .Site.Params.showVolunteering }}
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#volunteering">Volunteering</a>

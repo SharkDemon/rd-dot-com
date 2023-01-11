@@ -21,6 +21,7 @@ theme = "hugo-resume"
     showExperience = true
     showEducation = true
     showCertifications = true
+    showArchaeology = true
     showVolunteering = true
 
     showQr = false

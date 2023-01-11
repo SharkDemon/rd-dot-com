@@ -1,0 +1,22 @@
+[
+    {
+        "name" : "TAS Lithics Academy",
+        "location" : "Texas Archaeological Research Laboratory, Austin TX",
+        "dates" : "April 2022",
+        "summary" : [
+            "Two-day academy learning how to recognize stone artifacts, how they are produced, and interpreting stone artifacts and patterns in the archaeological record.",
+            "Stone tool analysis exercises included sorting, classifying, measuring, and information recording."
+        ]
+    },
+    {
+        "name" : "Conservation, Curation, and Restoration Lab Program",
+        "location" : "Montpelier, Orange VA",
+        "dates" : "March 2022",
+        "summary" : [
+            "One-week program learning the basics of artifact conservation and curation through hands-on workshops including artifact condition assessment, documentary photography, artifact cleaning and rust removal, electrolytic reduction, mending and repairing.",
+            "Experienced behind-the-scenes tours of artifact storage facilities.",
+            "Participated in dicsussions about how conservation decisions are made.",
+            "Enjoyed lectures from leaders in the museum field."
+        ]
+    }
+]
